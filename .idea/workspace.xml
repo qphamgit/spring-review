@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2715e58-a5e9-4478-8c5c-2b93e2cef22e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="f2715e58-a5e9-4478-8c5c-2b93e2cef22e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +102,7 @@
       <workItem from="1599844989939" duration="6282000" />
       <workItem from="1599857399476" duration="328000" />
       <workItem from="1600100755449" duration="2238000" />
-      <workItem from="1600109856552" duration="16695000" />
+      <workItem from="1600109856552" duration="17071000" />
     </task>
     <servers />
   </component>
@@ -156,6 +154,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="499" y="142" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1599848988094" />
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600134182570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600134182570" />
     <state x="65" y="25" key="new project wizard" timestamp="1600103001632">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
