@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2715e58-a5e9-4478-8c5c-2b93e2cef22e" name="Default Changelist" comment="" />
+    <list default="true" id="f2715e58-a5e9-4478-8c5c-2b93e2cef22e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1hKunwJ295u8a5JdMXBTqE1IKkW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,9 +42,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-sercurity/src/main/java/com/spring/example" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../eawebservice" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -92,7 +102,7 @@
       <workItem from="1599844989939" duration="6282000" />
       <workItem from="1599857399476" duration="328000" />
       <workItem from="1600100755449" duration="2238000" />
-      <workItem from="1600109856552" duration="15957000" />
+      <workItem from="1600109856552" duration="16595000" />
     </task>
     <servers />
   </component>
@@ -116,22 +126,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600124200889" />
-    <state width="1306" height="199" key="GridCell.Tab.0.bottom" timestamp="1600129577803">
+    <state width="1306" height="258" key="GridCell.Tab.0.bottom" timestamp="1600133206277">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600129577803" />
-    <state width="1306" height="199" key="GridCell.Tab.0.center" timestamp="1600129577803">
+    <state width="1306" height="258" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600133206277" />
+    <state width="1306" height="258" key="GridCell.Tab.0.center" timestamp="1600133206276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600129577803" />
-    <state width="1306" height="199" key="GridCell.Tab.0.left" timestamp="1600129577803">
+    <state width="1306" height="258" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600133206276" />
+    <state width="1306" height="258" key="GridCell.Tab.0.left" timestamp="1600133206276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600129577803" />
-    <state width="1306" height="199" key="GridCell.Tab.0.right" timestamp="1600129577803">
+    <state width="1306" height="258" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600133206276" />
+    <state width="1306" height="258" key="GridCell.Tab.0.right" timestamp="1600133206276">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600129577803" />
+    <state width="1306" height="258" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600133206276" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1599772697368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
