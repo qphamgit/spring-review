@@ -22,7 +22,6 @@ import static com.spring.example.security.ApplicationUserRole.*;
 @Configuration
 @EnableWebSecurity
 @EnableGlobalMethodSecurity(prePostEnabled = true)
-@EnableGlobalAuthentication
 public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private PasswordEncoder passwordEncoder;
